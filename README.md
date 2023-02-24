@@ -1,0 +1,2 @@
+# mxshoptest
+for mxshop prj
